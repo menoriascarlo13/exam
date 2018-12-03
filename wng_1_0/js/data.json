@@ -1,0 +1,57 @@
+[{
+        "name": "James Corden",
+        "message": "Hey men what's up. You want to hang...",
+        "icon": "images/icon1.png",
+        "status": "offline"
+},
+    {
+        "name": "Jenna Fredmore",
+        "message": "I'm free tonight. I'll wait you...",
+        "icon": "images/icon2.png",
+        "status": "active"
+}, {
+        "name": "Karl O'Brien",
+        "message": "The most powerful man on earth...",
+        "icon": "images/icon3.png",
+        "status": "dormant"
+}, {
+        "name": "Bill Marlow",
+        "message": "I'm pleased to meet you. Hope we...",
+        "icon": "images/icon4.png",
+        "status": "dormant"
+}, {
+        "name": "Joe McHamil",
+        "message": "I'm currently at the train station...",
+        "icon": "images/icon5.png",
+        "status": "active"
+}, {
+        "name": "John Ortiz",
+        "message": "Will do! I'll catch up later...",
+        "icon": "images/icon6.png",
+        "status": "offline"
+}, {
+        "name": "Amanda Cowen",
+        "message": "Meeting moved to 10 AM, Please be...",
+        "icon": "images/icon7.png",
+        "status": "dormant"
+}, {
+        "name": "Gill Rogers",
+        "message": "A lot of catching up to do...",
+        "icon": "images/icon8.png",
+        "status": "active"
+}, {
+        "name": "Elena Hill",
+        "message": "You can do whatever you want...",
+        "icon": "images/icon9.png",
+        "status": "offline"
+}, {
+        "name": "Mario Nottingham",
+        "message": "Please be guided accordingly tha...",
+        "icon": "images/icon10.png",
+        "status": "active"
+}, {
+        "name": "Jc Vera",
+        "message": "I'm on vacation right now. If you need...",
+        "icon": "images/icon11.png",
+        "status": "active"
+}]

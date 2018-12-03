@@ -1,0 +1,67 @@
+header {
+    height: 80px;
+}
+
+.cards {
+    width: 150px;
+    height: 250px;
+    margin: 0 auto;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+/*
+.card-main {
+    background-color: lightslategray;
+    border: 1px solid black;
+}
+*/
+
+.active {
+    background-color: green;
+}
+
+.inactive {
+    background-color: red;
+}
+
+.card-count {
+    font-size: 2em;
+    color: #fff;
+}
+
+.cards > div {
+    pointer-events: none;
+}
+
+.cards > img {
+    pointer-events: none;
+}
+
+.active > div {
+    opacity: 1;
+    background-color: green;
+}
+
+.inactive > div {
+    opacity: 0;
+    background-color: red;
+}
+
+.centered {
+    display: table;
+    height: 100%;
+}
+
+.btn-cont {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+@media (min-width: 576px) {
+    .col-sm-6 {
+        margin-bottom: 50px;
+    }
+}
